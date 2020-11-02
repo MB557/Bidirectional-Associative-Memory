@@ -1,7 +1,7 @@
 # Bidirectional-Associative-Memory
 A simple implementation of BAM (Bidirectional Associative Memory) from scratch in Python 3 with a simple example.
 
-## Problem Statement
+## Problem Statement :clipboard:
 -----
 Given
 
@@ -23,12 +23,12 @@ Given
 - Hence test the level of weight corrections of the BAM with examples.
 -----
 
-## Usage
+## Usage :spades:
 -----
 - Ensure that **jupyter notebook** is installed on your system.
 - Open up jupyter notebook and simple execute the cells.
 
-## Note
+## Note :pushpin:
 -----
 - Programming Language: **Python 3**
 - The **"numpy"** module is required. To install, type the following command in terminal: **pip install numpy**
